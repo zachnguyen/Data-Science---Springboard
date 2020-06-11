@@ -1,34 +1,28 @@
 ### Springboard Data Science Immersive
-This repository will house all code, data, and files related to my work in the Springboard Data Science Immersive program. The following acts as a table of contents for the whole repository with links to the respective work cited
+This repository will house all code, data, and files related to my work in the Springboard Data Science Immersive program. The following acts as a table of contents for the whole repository with links to the respective work cited.
 
 ## Capstone 1
 [Building A Spam Filter With Natural Language Processing](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/SMS%20Spam%20Filter)
 
-# Key Skills
+# Key points:
 - Python tools: Pandas, Json, Nltk, Matplotlib, Scikit-Learn, Spacy, Statsmodel.
 - Performed spam classification for hypothetical a hypothetical telecom, achieving a model with 99.4% accuracy score and 0.997 AUC (Area Under the Curve) Score.
 - Created a complete end-to-end NLP pipeline to process sms messages at throughput of +100 sms/s.
 - Converted data to bag of word features and modeled the training data to several algorithms, including Logistic regression, Naive Bayes, SVC and XGBoost.
 - Regularized best algorithm architecture with F-Beta score to ensure alignment with business objectives.
 
-Capstone 2
-Exploring Computational Efficiency in Object Detection with Convolutional Neural Networks
+## Capstone 2
+Sentiment Analysis with Neural Network techniques (https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
+
+# Key Points:
+- Python tools: Pandas, Seaborn, Scikit-Learn, Spacy, Gensim, Sci-Py, Tensorflow/Keras.
+- Performed sentiment analysis on a highly realistic dataset provided by Analytics Vidha with over 100 drugs for a hypothetical Canadian pharmaceutical, achieving a model with 0.5 F1 macro score with Grid-Search for Hyper-parameter Tuning and Cross Validation.
+- Aligned the best algorithm with business objectives by creating trade-off gradient to identify scenarios in which automation of the Sentiment Analysis task is profitable, potentially with a saving of +$400 per 1000 reviews.
+- Ran dimensionality reduction algorithms such as TSNE and LDA (Latent Dirichlet Allocation) to explore language dataset structure.
+- Modeled the training data to several algorithms, including Word embedding algorithms (with Skip-Gram, Matrix Factorization and Transfer Learning) and Recurrent Neural Network with LSTM (Long Short Term Memory) component.
+
+Clustering Methods K-Nearest Neighbors and PCA
 Key Skills
-
-Image Processing
-Video Processing
-H5 Storage
-Object Oriented Programming
-Tensorflow
-Tensorboard
-Convolutional Neural Networks
-Object Detection
-Exploring different image preprocessing techniques and methods in order to speed up CNN training. As a positive side effect, the transformation of original full scale data results in a smaller memory expense, both hard drive and RAM.
-
-Clustering Methods
-K-Nearest Neighbors and PCA
-Key Skills
-
 K-Means
 PCA - Principle Component Analysis
 Elbow Sum of Squares Method
