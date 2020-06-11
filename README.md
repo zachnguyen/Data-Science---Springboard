@@ -12,7 +12,7 @@ This repository will house all code, data, and files related to my work in the S
 - Regularized best algorithm architecture with F-Beta score to ensure alignment with business objectives.
 
 ## Capstone 2
-Sentiment Analysis with Neural Network techniques (https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
+[Sentiment Analysis with Neural Network techniques](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
 
 # Key Points:
 - Python tools: Pandas, Seaborn, Scikit-Learn, Spacy, Gensim, Sci-Py, Tensorflow/Keras.
@@ -21,14 +21,14 @@ Sentiment Analysis with Neural Network techniques (https://github.com/zachnguyen
 - Ran dimensionality reduction algorithms such as TSNE and LDA (Latent Dirichlet Allocation) to explore language dataset structure.
 - Modeled the training data to several algorithms, including Word embedding algorithms (with Skip-Gram, Matrix Factorization and Transfer Learning) and Recurrent Neural Network with LSTM (Long Short Term Memory) component.
 
-Clustering Methods K-Nearest Neighbors and PCA
+## Clustering Methods K-Nearest Neighbors and PCA
 Key Skills
 K-Means
 PCA - Principle Component Analysis
 Elbow Sum of Squares Method
 Mini project on customer segmentation and being able to identify different types of customers and then figure out ways to find more of those individuals so you can get more customers! The data comes from John Foreman's book Data Smart. The dataset contains both information on marketing newsletters/e-mail campaigns (e-mail offers sent) and transaction level data from customers (which offer customers responded to and what they bought).
 
-Exploratory Data Analysis' (EDA)
+## Exploratory Data Analysis' (EDA)
 Hospital Readmittance Data
 Human Temperature Data
 Racial Discrimination Data
@@ -44,18 +44,18 @@ Chi-Squared Test
 Bootstrap Statistics
 Several EDA's performed on varying data categories. Hospital Readmittance performs a statistical analysis on a previously done analysis to critique its validity. Human Temperature EDA uses bootstrap statistics to determine the true average temperature of the human body in both male and females. Racial Discrimination performs a statistical analysis on if race has a meaningful impact on the callback rate of candidates who have submitted resumes to jobs of interest.
 
-Machine Learning Algorithms
+## Machine Learning Algorithms
 Linear Regression
 Logistic Regression
 Naive Bayes
 Key Skills
 
-Logistic Regression
+## Logistic Regression
 Linear Regression
 Naive Bayes
 Performing several Machine Learning Algorithms in miniprojects such as: Labeling an obersvation as either male or female based on height and weight data (Logistic Regression), Regression Price Estimate on Boston Housing data using Linear Regression, and predicting movie reviews with Naive Bayes Models
 
-PYSPARK
+## PYSPARK
 MapReduce with Pyspark
 Performing several exercises utlitizing MapReduce Pyspark (RDD) with a touch of MLlib
 
@@ -68,21 +68,20 @@ SQL
 Yammer SQL Case Study
 Key Skills
 
-SQL
+## SQL
 Time Series Analysis
 Applied Plotting and Charting
 This is a SQL case study as proposed from Mode Analytics at https://modeanalytics.com/. The Jupyter notebook in this repository is a cleaned up verison of the original case study which contains all original SQL queries, and can be found here: https://modeanalytics.com/mooseburger/reports/14cbbb5670b8
 
-JSON
+## JSON
 Data Wrangling with JSON
 Key Skills
 
-JSON Manipulation and Extraction
+## JSON Manipulation and Extraction
 Applied Plotting and Charting
 An exercise of data extraction and exploration utilizing a JSON data source
 
-Take Home Data Challenges
-Relax Chalenge
+## Data Science Chalenge - Ultimate Inc.
 Ultimate Challenge Parts 1 & 2
 Ultimate Challange Part 3
 Key Skills
@@ -92,7 +91,7 @@ Relax Challenge - Defining an "adopted user" as a user who has logged into a pro
 
 A user table ("takehome_users") with data on 12,000 users who signed up for the product in the last two years
 A usage summary table ("takehome_user_engagement") that has a row for each day that a user logged into the product.
-Ultimate Challenge
+## Data Science Challenge - Relax Inc.
 
 Part 1 ‐ Exploratory data analysis
 Part 2 ‐ Experiment and metrics design
