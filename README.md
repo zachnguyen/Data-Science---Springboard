@@ -23,39 +23,69 @@ This repository will house all code, data, and files related to my work in the S
 
 ### Mini Projects (Small Data Science Projects showcasing specific skills)
 
-## [Clustering Methods K-Nearest Neighbors and PCA](
-Key Skills
-K-Means
-PCA - Principle Component Analysis
-Elbow Sum of Squares Method
-Mini project on customer segmentation and being able to identify different types of customers and then figure out ways to find more of those individuals so you can get more customers! The data comes from John Foreman's book Data Smart. The dataset contains both information on marketing newsletters/e-mail campaigns (e-mail offers sent) and transaction level data from customers (which offer customers responded to and what they bought).
+## [SQL - Time Series Analysis](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/SQL/country_clubs_analytics.ipynbt)
+# Description
+This is a SQL case study on Country Club membership as proposed from Mode Analytics at https://modeanalytics.com/. The Jupyter notebook in this repository is a cleaned up verison of the original case study which contains all original SQL queries, and can be found here: https://modeanalytics.com/mooseburger/reports/14cbbb5670b8
+# Key Skills:
+- SQL Query
+- SQL Plotting and Graphing
+- Advanced SQL Queries (Join, Merge, Subqueries)
 
-## Exploratory Data Analysis' (EDA)
-Hospital Readmittance Data
-Human Temperature Data
-Racial Discrimination Data
-Key Skills
+## JSON
+# Description
 
-Central Limit Theorem
-Statistical Analysis
-Data Visualization
-z-test
-t-test
-Margin of Error (MOE)
-Chi-Squared Test
-Bootstrap Statistics
-Several EDA's performed on varying data categories. Hospital Readmittance performs a statistical analysis on a previously done analysis to critique its validity. Human Temperature EDA uses bootstrap statistics to determine the true average temperature of the human body in both male and females. Racial Discrimination performs a statistical analysis on if race has a meaningful impact on the callback rate of candidates who have submitted resumes to jobs of interest.
+## JSON Manipulation and Extraction
+Applied Plotting and Charting
+An exercise of data extraction and exploration utilizing a JSON data source
 
-## Machine Learning Algorithms
-Linear Regression
-Logistic Regression
-Naive Bayes
-Key Skills
 
-## Logistic Regression
-Linear Regression
-Naive Bayes
-Performing several Machine Learning Algorithms in miniprojects such as: Labeling an obersvation as either male or female based on height and weight data (Logistic Regression), Regression Price Estimate on Boston Housing data using Linear Regression, and predicting movie reviews with Naive Bayes Models
+## [Clustering Methods K-Nearest Neighbors and PCA](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Unsupervised%20Learning/Mini_Project_Clustering_Customer_Segmentation.ipynb)
+# Description
+A mini project on customer segmentation and being able to identify different types of customers and then figure out ways to find more of those individuals so you can get more customers! The data comes from John Foreman's book Data Smart. The dataset contains both information on marketing newsletters/e-mail campaigns (e-mail offers sent) and transaction level data from customers (which offer customers responded to and what they bought).
+# Key Skills
+- K-Means
+- PCA - Principle Component Analysis
+- Elbow Sum of Squares Method
+
+## [Exploratory Data Analysis with Frequentist, Bootstrap and Baysian statistical Methods](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Mini-Projects%20and%20Exercises/Inferential%20Statistics)
+# Description
+Several EDA's performed on varying data categories using three statistical methods to answer several questions relating to insurance claim in a hospital. 
+# Key Skills
+- Central Limit Theorem
+- Statistical Analysis
+- Data Visualization
+- z-test
+- t-test
+- Margin of Error (MOE)
+- Chi-Squared Test
+- Bootstrap Statistics
+
+## [Linear Regression](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Linear%20Regression/Mini_Project_Linear_Regression_Boston_HousePrice.ipynb)
+# Description
+Applied Linear Regression onto Boston Housing Dataset to predict price.
+# Key Skills:
+- Regression
+- Model evaluation (Rquared)
+- Feature selection
+- Q-Q Plot, residuals and outliers
+
+## [Logistic Regression](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Logistic%20Regression/Mini_Project_Logistic_Regression.ipynb)
+# Description
+Classify gender based on height using Logistic Regression. 
+# Key skills:
+- Classification
+- Model evaluation (F-score, ROC)
+- Log Probability, Optimization
+
+## [Naive Bayes](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Naive%20Bayes/Mini_Project_Naive_Bayes.ipynb)
+# Description
+Using Naive Bayes for basic text classification of "Rotten" movie reviews.
+# Key skills:
+- Text Classification
+- Bag of Word, TF-IDF feature engineering
+- Cross Validation
+- Grid Search and Hyper-Parameter tuning
+- Latent Dirichle Allocation
 
 ## PYSPARK
 MapReduce with Pyspark
@@ -69,19 +99,6 @@ Spark Dataframes
 SQL
 Yammer SQL Case Study
 Key Skills
-
-## SQL
-Time Series Analysis
-Applied Plotting and Charting
-This is a SQL case study as proposed from Mode Analytics at https://modeanalytics.com/. The Jupyter notebook in this repository is a cleaned up verison of the original case study which contains all original SQL queries, and can be found here: https://modeanalytics.com/mooseburger/reports/14cbbb5670b8
-
-## JSON
-Data Wrangling with JSON
-Key Skills
-
-## JSON Manipulation and Extraction
-Applied Plotting and Charting
-An exercise of data extraction and exploration utilizing a JSON data source
 
 ## Data Science Chalenge - Ultimate Inc.
 Ultimate Challenge Parts 1 & 2
