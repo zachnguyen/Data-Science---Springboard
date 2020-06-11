@@ -1,8 +1,9 @@
 ### Springboard Data Science Immersive
 This repository will house all code, data, and files related to my work in the Springboard Data Science Immersive program. The following acts as a table of contents for the whole repository with links to the respective work cited.
 
-## Capstone 1
-[Building A Spam Filter With Natural Language Processing](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/SMS%20Spam%20Filter)
+### Capstone Projects (Full Scale Data Science Projects)
+
+## [Building A Spam Filter With Natural Language Processing](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/SMS%20Spam%20Filter)
 
 # Key points:
 - Python tools: Pandas, Json, Nltk, Matplotlib, Scikit-Learn, Spacy, Statsmodel.
@@ -11,8 +12,7 @@ This repository will house all code, data, and files related to my work in the S
 - Converted data to bag of word features and modeled the training data to several algorithms, including Logistic regression, Naive Bayes, SVC and XGBoost.
 - Regularized best algorithm architecture with F-Beta score to ensure alignment with business objectives.
 
-## Capstone 2
-[Sentiment Analysis with Neural Network techniques](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
+## [Sentiment Analysis with Neural Network techniques](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
 
 # Key Points:
 - Python tools: Pandas, Seaborn, Scikit-Learn, Spacy, Gensim, Sci-Py, Tensorflow/Keras.
@@ -21,7 +21,9 @@ This repository will house all code, data, and files related to my work in the S
 - Ran dimensionality reduction algorithms such as TSNE and LDA (Latent Dirichlet Allocation) to explore language dataset structure.
 - Modeled the training data to several algorithms, including Word embedding algorithms (with Skip-Gram, Matrix Factorization and Transfer Learning) and Recurrent Neural Network with LSTM (Long Short Term Memory) component.
 
-## Clustering Methods K-Nearest Neighbors and PCA
+### Mini Projects (Small Data Science Projects showcasing specific skills)
+
+## [Clustering Methods K-Nearest Neighbors and PCA](
 Key Skills
 K-Means
 PCA - Principle Component Analysis
