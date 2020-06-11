@@ -31,12 +31,22 @@ This is a SQL case study on Country Club membership as proposed from Mode Analyt
 - SQL Plotting and Graphing
 - Advanced SQL Queries (Join, Merge, Subqueries)
 
-## JSON
-### Description
+## [JSON wrangling](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Data%20Wrangling/API_import_and_wrangling.ipynb)
+### Description:
+Importing stock data from Quandl and conducting data analysis and exploration of stock data using native Python structures.
 
 ### Key skills
-- Applied Plotting and Charting
+- API import, request
 - Data extraction
+- native Python structures
+
+## [Data API Import](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Data%20Wrangling/json_wrangling_worldbank.ipynb)
+### Description:
+Importing country data from world bank and conducting data analysis and exploration of Json structures.
+
+### Key skills
+- json manipulation
+- missing data imputation 
 
 ## [Clustering Methods K-Nearest Neighbors and PCA](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/Unsupervised%20Learning/Mini_Project_Clustering_Customer_Segmentation.ipynb)
 ### Description
@@ -87,30 +97,27 @@ Using Naive Bayes for basic text classification of "Rotten" movie reviews.
 - Latent Dirichle Allocation
 
 ## PYSPARK
-MapReduce with Pyspark
-Performing several exercises utlitizing MapReduce Pyspark (RDD) with a touch of MLlib
+### Description
+Using MapReduce with Pyspark with several exercises utlitizing MapReduce Pyspark (RDD) with a touch of MLlib.
+### Key Skills
+- Pyspark
+- RDD
+- Spark Dataframes
 
-Key Skills
+## [Data Science Chalenge - Ultimate Inc.](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Mini-Projects%20and%20Exercises/Data%20Challenges/Ultimate%20Challenge)
+### Description
+Ultimate Challenge - Building a model to help figure out customer retention based on a variety of features including login information in the "logins.csv" dataset.
+### Key Skills
+- EDA
+- Time series analysis
+- Experimental design
+- Feature engineering
 
-Pyspark
-RDD
-Spark Dataframes
-SQL
-Yammer SQL Case Study
-Key Skills
-
-## Data Science Chalenge - Ultimate Inc.
-Ultimate Challenge Parts 1 & 2
-Ultimate Challange Part 3
-Key Skills
-
-Full Stack Data Scientist
-Relax Challenge - Defining an "adopted user" as a user who has logged into a product on three separate days in at least one seven-day period, identify which factors predict future user adoption. You are given two datasets
-
-A user table ("takehome_users") with data on 12,000 users who signed up for the product in the last two years
-A usage summary table ("takehome_user_engagement") that has a row for each day that a user logged into the product.
-## Data Science Challenge - Relax Inc.
-
-Part 1 ‐ Exploratory data analysis
-Part 2 ‐ Experiment and metrics design
-Part 3 - Predictive Modelling
+## [Data Science Challenge - Relax Inc.](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Mini-Projects%20and%20Exercises/Data%20Challenges/Relax%20Challenges)
+### Description
+Relax Challenge - Defining an "adopted user" as a user who has logged into a product on three separate days in at least one seven-day period, identify which factors predict future user adoption given two datasets
+- A user table ("takehome_users") with data on 12,000 users who signed up for the product in the last two years
+- A usage summary table ("takehome_user_engagement") that has a row for each day that a user logged into the product.
+### Key skills
+- datetime wrangling
+- full-stack data science
