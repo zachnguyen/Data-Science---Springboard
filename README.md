@@ -18,6 +18,8 @@ This repository will house all code, data, and files related to my work in the S
 
 ## [Sentiment Analysis with Neural Network techniques](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
 
+![Drug Sentiment Classification](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/images/Sentiment_Analysis_drug.PNG)
+
 ### Key Points:
 - Python tools: Pandas, Seaborn, Scikit-Learn, Spacy, Gensim, Sci-Py, Tensorflow/Keras.
 - Performed sentiment analysis on a highly realistic dataset provided by Analytics Vidha with over 100 drugs for a hypothetical Canadian pharmaceutical, achieving a model with 0.5 F1 macro score with Grid-Search for Hyper-parameter Tuning and Cross Validation.
