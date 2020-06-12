@@ -1,6 +1,8 @@
 # Springboard Data Science Immersive
 This repository will house all code, data, and files related to my work in the Springboard Data Science Immersive program. The following acts as a table of contents for the whole repository with links to the respective work cited.
 
+-----------------------------------------------------------------------------
+
 # Capstone Projects (Full Scale Data Science Projects)
 
 ## [Building A Spam Filter With Natural Language Processing](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/SMS%20Spam%20Filter)
@@ -20,6 +22,8 @@ This repository will house all code, data, and files related to my work in the S
 - Aligned the best algorithm with business objectives by creating trade-off gradient to identify scenarios in which automation of the Sentiment Analysis task is profitable, potentially with a saving of +$400 per 1000 reviews.
 - Ran dimensionality reduction algorithms such as TSNE and LDA (Latent Dirichlet Allocation) to explore language dataset structure.
 - Modeled the training data to several algorithms, including Word embedding algorithms (with Skip-Gram, Matrix Factorization and Transfer Learning) and Recurrent Neural Network with LSTM (Long Short Term Memory) component.
+
+-----------------------------------------------------------------------------
 
 # Mini Projects (Small Data Science Projects showcasing specific skills)
 
