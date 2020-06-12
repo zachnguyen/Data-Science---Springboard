@@ -7,7 +7,7 @@ This repository will house all code, data, and files related to my work in the S
 
 ## [Building A Spam Filter With Natural Language Processing](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/SMS%20Spam%20Filter)
 
-
+![Spam Filtering](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/images/Sms%20filter.PNG)
 
 ### Key points:
 - Python tools: Pandas, Json, Nltk, Matplotlib, Scikit-Learn, Spacy, Statsmodel.
