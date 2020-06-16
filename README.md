@@ -107,7 +107,7 @@ Using Naive Bayes for basic text classification of "Rotten" movie reviews.
 - Grid Search and Hyper-Parameter tuning
 - Latent Dirichle Allocation
 
-## PYSPARK
+## [PySpark](https://github.com/zachnguyen/Data-Science---Springboard/blob/master/Mini-Projects%20and%20Exercises/PySpark/Spark%20DF%2C%20SQL%2C%20ML%20Exercise.ipynb)
 ### Description
 Using MapReduce with Pyspark with several exercises utlitizing MapReduce Pyspark (RDD) with a touch of MLlib.
 ### Key Skills
