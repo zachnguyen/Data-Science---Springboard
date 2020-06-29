@@ -18,6 +18,8 @@ This repository will house all code, data, and files related to my work in the S
 - Created a complete end-to-end NLP pipeline to process sms messages at throughput of +100 sms/s.
 - Converted data to bag of word features and modeled the training data to several algorithms, including Logistic regression, Naive Bayes, SVC and XGBoost.
 - Regularized best algorithm architecture with F-Beta score to ensure alignment with business objectives.
+- Deployed Spam Filter onto AWS instance with Dockerization and Flask so that anyone could filter Spams.
+http://spamfilter-env.eba-5zbpxzwv.us-east-2.elasticbeanstalk.com/
 
 ## [Sentiment Analysis with Neural Network techniques](https://github.com/zachnguyen/Data-Science---Springboard/tree/master/Drug%20Sentiment%20Review)
 
